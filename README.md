@@ -22,7 +22,7 @@ Currently based in Kasaragod, Kerala, India (UTC +05:30), I'm eager to collabora
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vidyarathna&layout=compact)
 
-![Repositories](https://github-readme-stats.vercel.app/api?username=vidyarathna&count_private=true&show_icons=true&theme=radical)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=vidyarathna&theme=github)
 
 ![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=vidyarathna&theme=radical)
 
