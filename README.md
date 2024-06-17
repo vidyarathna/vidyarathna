@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Vidyarathna! 👋
 
-<!--
-**vidyarathna/vidyarathna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a passionate software engineer with a strong focus on full-stack development and machine learning. 
+Currently based in Kasaragod, Kerala, India (UTC +05:30), I'm eager to collaborate on projects that leverage Java, JavaScript, Python, HTML5/CSS3, SQL/MySQL, and machine learning technologies.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on enhancing my skills in machine learning algorithms and web app development.
+- 🌱 I’m currently learning advanced techniques in machine learning and frameworks for building scalable web applications.
+- 👯 I’m looking to collaborate on projects related to machine learning models and full-stack web development.
+- 💬 Ask me about machine learning techniques, web app architecture, or anything related to software engineering!
+- 📫 How to reach me: [Email](mailto:vidyarb30@gmail.com), [LinkedIn](https://in.linkedin.com/in/vidyarathna)
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I love playing chess in my free time!
+  
+## Connect with Me
+- LinkedIn: [Connect with me on LinkedIn](https://in.linkedin.com/in/vidyarathna)
+- Dev.to: [Follow me on Dev.to](https://dev.to/vidyarathna)
+- Medium: [Read my articles on Medium](https://vidyarathna.medium.com)
+- HackerRank: [Check out my HackerRank profile](https://www.hackerrank.com/profile/vidyarathna)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=vidyarathna&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vidyarathna&layout=compact)
