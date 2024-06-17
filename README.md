@@ -5,9 +5,9 @@ I'm a passionate software engineer with a strong focus on full-stack development
 Currently based in Kasaragod, Kerala, India (UTC +05:30), I'm eager to collaborate on projects that leverage Java, JavaScript, Python, HTML5/CSS3, SQL/MySQL, and machine learning technologies.
 
 - 🔭 I’m currently working on enhancing my skills in machine learning algorithms and web app development.
-- 🌱 I’m currently learning advanced techniques in machine learning and frameworks for building scalable web applications.
-- 👯 I’m looking to collaborate on projects related to machine learning models and full-stack web development.
-- 💬 Ask me about machine learning techniques, web app architecture, or anything related to software engineering!
+- 🌱 I’m currently learning advanced techniques in machine learning and frameworks.
+- 👯 I’m looking to collaborate on projects related to web development.
+- 💬 Ask me about machine learning techniques, or anything related to software engineering!
 - 📫 How to reach me: [Email](mailto:vidyarb30@gmail.com), [LinkedIn](https://in.linkedin.com/in/vidyarathna)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love playing chess in my free time!
