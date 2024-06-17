@@ -2,7 +2,7 @@
 
 ## About Me
 I'm a passionate software engineer with a strong focus on full-stack development and machine learning. 
-Currently based in Kasaragod, Kerala, India (UTC +05:30), I'm eager to collaborate on projects that leverage Java, JavaScript, Python, HTML5/CSS3, SQL/MySQL, and machine learning technologies.
+Currently based in Kasaragod, Kerala, India (UTC +05:30).
 
 - 🔭 I’m currently working on enhancing my skills in machine learning algorithms and web app development.
 - 🌱 I’m currently learning advanced techniques in machine learning and frameworks.
@@ -22,9 +22,6 @@ Currently based in Kasaragod, Kerala, India (UTC +05:30), I'm eager to collabora
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vidyarathna&layout=compact)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=vidyarathna&theme=github)
-
 ![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=vidyarathna&theme=radical)
 
-![Repository Stats](https://github-readme-stats.vercel.app/api?username=vidyarathna&count_private=true&show_icons=true&theme=radical)
 
