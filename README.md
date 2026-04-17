@@ -1,27 +1,59 @@
-# Hi there, I'm Vidyarathna! 👋
+# Hi, I'm Vidyarathna 👋
 
-## About Me
-I'm a passionate software engineer with a strong focus on full-stack development and machine learning. 
-Currently based in Kasaragod, Kerala, India (UTC +05:30).
+Backend Engineer with ~3 years of experience building workflow-driven systems and LLM-based applications.
 
-- 🔭 I’m currently working on enhancing my skills in machine learning algorithms and web app development.
-- 🌱 I’m currently learning advanced techniques in machine learning and frameworks.
-- 👯 I’m looking to collaborate on projects related to web development.
-- 💬 Ask me about machine learning techniques, or anything related to software engineering!
-- 📫 How to reach me: [Email](mailto:vidyarb30@gmail.com), [LinkedIn](https://in.linkedin.com/in/vidyarathna)
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love playing chess in my free time!
-  
-## Connect with Me
-- LinkedIn: [Connect with me on LinkedIn](https://in.linkedin.com/in/vidyarathna)
-- Dev.to: [Follow me on Dev.to](https://dev.to/vidyarathna)
-- Medium: [Read my articles on Medium](https://vidyarathna.medium.com)
-- HackerRank: [Check out my HackerRank profile](https://www.hackerrank.com/profile/vidyarathna)
+---
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=vidyarathna&show_icons=true&theme=radical)
+## 🚀 What I Work On
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vidyarathna&layout=compact)
+* Backend systems for workflow orchestration and multi-stage processing
+* Handling concurrent workloads using Python threading
+* Building LLM-based applications with RAG pipelines
+* Designing systems with validation, retries, and failure handling
 
-![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=vidyarathna&theme=radical)
+---
 
+## 🧠 Key Experience
 
+* Built a workflow system executing 5–20 parallel jobs per order
+* Developed an LLM-based evaluation platform serving 500+ users and generating 2,000+ reports
+* Implemented RAG pipelines using LangChain + pgvector
+* Built systems to handle inconsistent LLM outputs using schema validation
+
+---
+
+## 🛠️ Tech Stack
+
+* **Languages:** Python, SQL, TypeScript
+* **Backend:** Flask, FastAPI
+* **LLM:** OpenAI GPT, LangChain, RAG, pgvector
+* **Databases:** PostgreSQL, MongoDB
+* **Infra:** Docker, Google Cloud Run, AWS S3
+* **Frontend:** Angular, React
+
+---
+
+## 📌 What I'm Learning Next
+
+* Improving RAG retrieval quality and chunking strategies
+* Exploring caching and queue-based architectures
+* Better LLM reliability and evaluation techniques
+
+---
+
+## 🔗 Connect
+
+* 🔗 LinkedIn: https://in.linkedin.com/in/vidyarathna
+* 💻 LeetCode: https://leetcode.com/u/vidyarb30/
+* 🧠 HackerRank: https://www.hackerrank.com/profile/vidyarathna
+* ✍️ Medium: https://vidyarathna.medium.com
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=vidyarathna\&show_icons=true\&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vidyarathna\&layout=compact)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=vidyarathna\&theme=radical)
