@@ -1,6 +1,6 @@
 # Hi, I'm Vidyarathna 👋
 
-Backend Engineer with ~3 years of experience building workflow-driven systems and LLM-based applications.
+Backend Engineer with 3 years of experience building workflow-driven systems and LLM-based applications.
 
 ---
 
